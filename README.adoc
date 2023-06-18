@@ -6,6 +6,6 @@ Connect common 1S or 2S lithium battery connectors to a load via a INA219 curren
 
 image::img/pcb-render.png[]
 
-link::power-sensor-breakout/power-sensor-breakout.pdf[Schematic (PDF)^]
+link:power-sensor-breakout/power-sensor-breakout.pdf[Schematic (PDF)^]
 
 
