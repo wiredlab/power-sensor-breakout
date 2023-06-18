@@ -2,7 +2,15 @@
 
   (uuid f783eef9-d688-4a83-8f04-d5a7ea63a822)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (title "Battery to INA219 module to load")
+    (date "2023-06-18")
+    (comment 1 "Dan White")
+    (comment 2 "Electrical and Computer Engineering")
+    (comment 3 "Valparaiso University")
+  )
 
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
